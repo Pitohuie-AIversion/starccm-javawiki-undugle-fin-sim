@@ -1,8 +1,9 @@
 # starccm-javawiki
 
-<video
-  src="https://raw.githubusercontent.com/Pitohuie-Alversion/starccm-javawiki/main/output.mp4"
-  controls
-  width="600">
-</video>
+# starccm-javawiki-undugle-fin-sim
 
+## Demo
+
+![Undulating fin simulation demo](output.gif)
+
+[▶ Full video (mp4)](output.mp4)
